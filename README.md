@@ -18,4 +18,4 @@ Turn on HIP kernel use insert `use_cuda_kernels` in clover.in.
 
 ## Performance
 
-Observed performance compared to directive based versions (OpenMP, OpenACC) is anywhere from 20-30% depending on node count for a sufficiently large enough benchmark to make using a GPU sensible. This is consistent with performance observed for the CUDA version of CloverLeaf.
+Observed performance uplift compared to directive based versions (OpenMP, OpenACC) is anywhere from 20-30% depending on node count for a sufficiently large enough benchmark to make using a GPU sensible. This is consistent with performance observed for the CUDA version of CloverLeaf.
